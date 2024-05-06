@@ -1,0 +1,6 @@
+1 I
+3 like
+2 dogs
+4 cats
+6 computers
+5 bananas
